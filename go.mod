@@ -1,4 +1,4 @@
-module github.com/prakash-joshi/go-bookstore
+module github.com/prakash-joshi/go-postgres-gorm
 
 go 1.22.2
 

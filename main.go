@@ -7,7 +7,7 @@ import (
 
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
-	"github.com/prakash-joshi/go-bookstore/pkg/routes"
+	"github.com/prakash-joshi/go-postgres-gorm/pkg/routes"
 )
 
 func main() {
